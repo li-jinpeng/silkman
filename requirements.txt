@@ -1,0 +1,5 @@
+xlrd==1.2.0
+datetime
+bs4
+requests
+selenium
